@@ -1,0 +1,15 @@
+page,in_degree_centrality,out_degree_centrality,betweenness_centrality,inbound_transitions,outbound_transitions
+/home,1.0,1.0,0.0,1106,2844
+/workshops-overview,1.0,1.0,0.0,1097,1394
+/resources-index,1.0,1.0,0.0,933,1093
+/course-python-data,1.0,1.0,0.0,750,426
+/course-sql-basics,1.0,1.0,0.0,699,412
+/course-git-ci,1.0,1.0,0.0,556,345
+/fair-data-guide,1.0,1.0,0.0,588,350
+/about-project,1.0,1.0,0.0,581,327
+/course-unix-shell,1.0,1.0,0.0,482,289
+/wikidata-intro,1.0,1.0,0.0,405,249
+/registration-form,1.0,1.0,0.0,386,239
+/faq,1.0,1.0,0.0,370,206
+/downloads-templates,1.0,1.0,0.0,297,178
+/contact-support,1.0,1.0,0.0,263,161
